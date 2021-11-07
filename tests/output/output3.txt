@@ -1,0 +1,209 @@
+Container contains 100 elements.
+[1] - Number type: Fraction; fraction = 0/91; double cast = 0.0.
+[2] - Number type: Fraction; fraction = 38/86; double cast = 0.4418604651162791.
+[3] - Number type: Fraction; fraction = -18/66; double cast = -0.2727272727272727.
+[4] - Number type: Fraction; fraction = -64/10; double cast = -6.4.
+[5] - Number type: Fraction; fraction = 86/23; double cast = 3.739130434782609.
+[6] - Number type: Fraction; fraction = 59/53; double cast = 1.1132075471698113.
+[7] - Number type: Fraction; fraction = 21/54; double cast = 0.3888888888888889.
+[8] - Number type: Fraction; fraction = -33/45; double cast = -0.7333333333333333.
+[9] - Number type: Fraction; fraction = 19/62; double cast = 0.3064516129032258.
+[10] - Number type: Complex; real = -86.18390653773587; imaginary = -44.68015862565717; double cast = 97.07719773932021.
+[11] - Number type: Complex; real = -22.526840202341873; imaginary = 22.75954239187776; double cast = 32.02273097956398.
+[12] - Number type: Fraction; fraction = -34/68; double cast = -0.5.
+[13] - Number type: Complex; real = 91.38859362856661; imaginary = -0.3664090325975451; double cast = 91.38932815699246.
+[14] - Number type: Fraction; fraction = 30/45; double cast = 0.6666666666666666.
+[15] - Number type: Fraction; fraction = 7/67; double cast = 0.1044776119402985.
+[16] - Number type: Complex; real = -55.151904409005795; imaginary = -76.43537850813237; double cast = 94.2555019488071.
+[17] - Number type: Complex; real = -88.59621891310188; imaginary = 14.31653872815204; double cast = 89.74549173553481.
+[18] - Number type: Complex; real = 71.50562301059136; imaginary = -41.73029071424399; double cast = 82.79173440161846.
+[19] - Number type: Complex; real = -60.92287823468765; imaginary = -88.09511060409476; double cast = 107.10903605553672.
+[20] - Number type: Complex; real = -64.44173548666323; imaginary = 63.013926864823304; double cast = 90.13041801444378.
+[21] - Number type: Fraction; fraction = 6/29; double cast = 0.20689655172413793.
+[22] - Number type: Fraction; fraction = -28/21; double cast = -1.3333333333333333.
+[23] - Number type: Fraction; fraction = -79/58; double cast = -1.3620689655172413.
+[24] - Number type: Fraction; fraction = -64/52; double cast = -1.2307692307692308.
+[25] - Number type: Complex; real = 63.27847004341754; imaginary = -50.16034483408194; double cast = 80.7479099723931.
+[26] - Number type: Polar; point = (21, 89); angle = -32.51289392268018; double cast = 91.44397191723465.
+[27] - Number type: Fraction; fraction = -62/62; double cast = -1.0.
+[28] - Number type: Polar; point = (20, 61); angle = -35.24322028944256; double cast = 64.19501538281614.
+[29] - Number type: Polar; point = (61, 51); angle = 42.46022936321515; double cast = 79.51100552753688.
+[30] - Number type: Polar; point = (-78, 90); angle = -30.63502533728885; double cast = 119.09659944767525.
+[31] - Number type: Complex; real = -3.828093232281063; imaginary = 14.232803213497107; double cast = 14.738622225607442.
+[32] - Number type: Complex; real = -58.245336279503455; imaginary = -30.656686869818344; double cast = 65.82060200382958.
+[33] - Number type: Polar; point = (-38, 16); angle = -48.937592013452246; double cast = 41.23105625617661.
+[34] - Number type: Fraction; fraction = -80/15; double cast = -5.333333333333333.
+[35] - Number type: Fraction; fraction = -47/97; double cast = -0.4845360824742268.
+[36] - Number type: Complex; real = -58.87904110077855; imaginary = -78.7848988560598; double cast = 98.35548672395832.
+[37] - Number type: Complex; real = -23.44509528418945; imaginary = 5.529640643200096; double cast = 24.088366871327178.
+[38] - Number type: Complex; real = 32.877347855842686; imaginary = -52.85928687809327; double cast = 62.24969245943828.
+[39] - Number type: Complex; real = 88.19543851096171; imaginary = 95.78155723355164; double cast = 130.20192809718662.
+[40] - Number type: Complex; real = 40.895590416557695; imaginary = 0.9438964166611754; double cast = 40.90648183313045.
+[41] - Number type: Polar; point = (-76, -20); angle = 17.08837093258235; double cast = 78.587530817554.
+[42] - Number type: Complex; real = -48.49523360699215; imaginary = 47.19754505849002; double cast = 67.671234229508.
+[43] - Number type: Fraction; fraction = 43/55; double cast = 0.7818181818181819.
+[44] - Number type: Polar; point = (-40, -21); angle = 21.57700801596276; double cast = 45.17742799230607.
+[45] - Number type: Fraction; fraction = 85/64; double cast = 1.328125.
+[46] - Number type: Complex; real = -42.297554855644506; imaginary = -1.079217944033914; double cast = 42.31132068533173.
+[47] - Number type: Fraction; fraction = 100/33; double cast = 3.0303030303030303.
+[48] - Number type: Complex; real = -78.97964002812515; imaginary = 87.67416879697237; double cast = 118.00230257589142.
+[49] - Number type: Polar; point = (-82, -15); angle = 57.880893289226094; double cast = 83.3606621854697.
+[50] - Number type: Polar; point = (-43, 10); angle = -15.278039954107925; double cast = 44.14748010928823.
+[51] - Number type: Complex; real = 57.9967316059099; imaginary = 65.39719458021673; double cast = 87.40946136392031.
+[52] - Number type: Fraction; fraction = 53/27; double cast = 1.962962962962963.
+[53] - Number type: Fraction; fraction = 34/80; double cast = 0.425.
+[54] - Number type: Fraction; fraction = 63/71; double cast = 0.8873239436619719.
+[55] - Number type: Polar; point = (-2, -74); angle = -83.77182485657755; double cast = 74.02702209328699.
+[56] - Number type: Polar; point = (-61, 55); angle = -71.26401113106706; double cast = 82.13403679352427.
+[57] - Number type: Fraction; fraction = -93/42; double cast = -2.2142857142857144.
+[58] - Number type: Fraction; fraction = 87/45; double cast = 1.9333333333333333.
+[59] - Number type: Fraction; fraction = 60/93; double cast = 0.6451612903225806.
+[60] - Number type: Fraction; fraction = 65/33; double cast = 1.9696969696969697.
+[61] - Number type: Fraction; fraction = 72/91; double cast = 0.7912087912087912.
+[62] - Number type: Complex; real = 47.535681531971704; imaginary = -98.677115216479; double cast = 109.52996889507139.
+[63] - Number type: Fraction; fraction = -2/73; double cast = -0.0273972602739726.
+[64] - Number type: Polar; point = (96, 14); angle = 80.19186268882316; double cast = 97.01546268507923.
+[65] - Number type: Fraction; fraction = -93/15; double cast = -6.2.
+[66] - Number type: Fraction; fraction = -69/2; double cast = -34.5.
+[67] - Number type: Complex; real = 87.37071349409626; imaginary = -14.502775683135695; double cast = 88.56620167413078.
+[68] - Number type: Polar; point = (27, 22); angle = -74.87762964569909; double cast = 34.828149534535996.
+[69] - Number type: Fraction; fraction = -78/27; double cast = -2.888888888888889.
+[70] - Number type: Polar; point = (18, -92); angle = 31.05078167373486; double cast = 93.74433316206373.
+[71] - Number type: Fraction; fraction = 47/32; double cast = 1.46875.
+[72] - Number type: Complex; real = -94.67040721631545; imaginary = -76.6350744847143; double cast = 121.80074155677666.
+[73] - Number type: Complex; real = -57.202949852829946; imaginary = 60.207862261881274; double cast = 83.0491670639209.
+[74] - Number type: Fraction; fraction = -68/68; double cast = -1.0.
+[75] - Number type: Fraction; fraction = -72/42; double cast = -1.7142857142857142.
+[76] - Number type: Fraction; fraction = 92/90; double cast = 1.0222222222222221.
+[77] - Number type: Polar; point = (-55, -93); angle = 20.944729499592427; double cast = 108.04628637764465.
+[78] - Number type: Complex; real = -1.5851699168560174; imaginary = 1.8817977874789449; double cast = 2.4604728363194677.
+[79] - Number type: Polar; point = (44, 44); angle = -58.69217584140824; double cast = 62.22539674441618.
+[80] - Number type: Complex; real = -34.85599251898887; imaginary = 84.78901672889194; double cast = 91.67397434570034.
+[81] - Number type: Complex; real = -41.32570925787997; imaginary = 76.39301452798932; double cast = 86.85451579705234.
+[82] - Number type: Complex; real = 9.491652108527802; imaginary = -28.79622191849937; double cast = 30.32018892633725.
+[83] - Number type: Complex; real = 15.293701327491704; imaginary = 64.17873296951572; double cast = 65.97580667083143.
+[84] - Number type: Polar; point = (37, 21); angle = 49.602060733509546; double cast = 42.5440947723653.
+[85] - Number type: Polar; point = (-87, -29); angle = 72.12790088181592; double cast = 91.706052144883.
+[86] - Number type: Complex; real = 98.46249702300963; imaginary = 70.13537089362586; double cast = 120.88768990427702.
+[87] - Number type: Fraction; fraction = -24/39; double cast = -0.6153846153846154.
+[88] - Number type: Fraction; fraction = -43/42; double cast = -1.0238095238095237.
+[89] - Number type: Polar; point = (36, 72); angle = -54.38358462804669; double cast = 80.49844718999243.
+[90] - Number type: Fraction; fraction = 66/38; double cast = 1.736842105263158.
+[91] - Number type: Polar; point = (42, -16); angle = -53.272987870724634; double cast = 44.94441010848846.
+[92] - Number type: Fraction; fraction = 36/66; double cast = 0.5454545454545454.
+[93] - Number type: Complex; real = -55.48688433838473; imaginary = -12.261498981277313; double cast = 56.82551091586551.
+[94] - Number type: Complex; real = -1.369775174350778; imaginary = -44.0708907619116; double cast = 44.09217273594728.
+[95] - Number type: Complex; real = -6.675938463984139; imaginary = 88.99391312779451; double cast = 89.24396185833717.
+[96] - Number type: Complex; real = -2.7968353847513043; imaginary = -88.94916304769227; double cast = 88.99312274021145.
+[97] - Number type: Polar; point = (-81, 88); angle = -67.93485376546538; double cast = 119.60351165413162.
+[98] - Number type: Fraction; fraction = 26/63; double cast = 0.4126984126984127.
+[99] - Number type: Fraction; fraction = 75/29; double cast = 2.586206896551724.
+[100] - Number type: Polar; point = (94, 61); angle = -33.465243242606576; double cast = 112.05802068571441.
+
+
+===================================
+
+Sorted container:
+
+Container contains 100 elements.
+[1] - Number type: Fraction; fraction = -69/2; double cast = -34.5.
+[2] - Number type: Fraction; fraction = -64/10; double cast = -6.4.
+[3] - Number type: Fraction; fraction = -93/15; double cast = -6.2.
+[4] - Number type: Fraction; fraction = -80/15; double cast = -5.333333333333333.
+[5] - Number type: Fraction; fraction = -78/27; double cast = -2.888888888888889.
+[6] - Number type: Fraction; fraction = -93/42; double cast = -2.2142857142857144.
+[7] - Number type: Fraction; fraction = -72/42; double cast = -1.7142857142857142.
+[8] - Number type: Fraction; fraction = -79/58; double cast = -1.3620689655172413.
+[9] - Number type: Fraction; fraction = -28/21; double cast = -1.3333333333333333.
+[10] - Number type: Fraction; fraction = -64/52; double cast = -1.2307692307692308.
+[11] - Number type: Fraction; fraction = -43/42; double cast = -1.0238095238095237.
+[12] - Number type: Fraction; fraction = -68/68; double cast = -1.0.
+[13] - Number type: Fraction; fraction = -62/62; double cast = -1.0.
+[14] - Number type: Fraction; fraction = -33/45; double cast = -0.7333333333333333.
+[15] - Number type: Fraction; fraction = -24/39; double cast = -0.6153846153846154.
+[16] - Number type: Fraction; fraction = -34/68; double cast = -0.5.
+[17] - Number type: Fraction; fraction = -47/97; double cast = -0.4845360824742268.
+[18] - Number type: Fraction; fraction = -18/66; double cast = -0.2727272727272727.
+[19] - Number type: Fraction; fraction = -2/73; double cast = -0.0273972602739726.
+[20] - Number type: Fraction; fraction = 0/91; double cast = 0.0.
+[21] - Number type: Fraction; fraction = 7/67; double cast = 0.1044776119402985.
+[22] - Number type: Fraction; fraction = 6/29; double cast = 0.20689655172413793.
+[23] - Number type: Fraction; fraction = 19/62; double cast = 0.3064516129032258.
+[24] - Number type: Fraction; fraction = 21/54; double cast = 0.3888888888888889.
+[25] - Number type: Fraction; fraction = 26/63; double cast = 0.4126984126984127.
+[26] - Number type: Fraction; fraction = 34/80; double cast = 0.425.
+[27] - Number type: Fraction; fraction = 38/86; double cast = 0.4418604651162791.
+[28] - Number type: Fraction; fraction = 36/66; double cast = 0.5454545454545454.
+[29] - Number type: Fraction; fraction = 60/93; double cast = 0.6451612903225806.
+[30] - Number type: Fraction; fraction = 30/45; double cast = 0.6666666666666666.
+[31] - Number type: Fraction; fraction = 43/55; double cast = 0.7818181818181819.
+[32] - Number type: Fraction; fraction = 72/91; double cast = 0.7912087912087912.
+[33] - Number type: Fraction; fraction = 63/71; double cast = 0.8873239436619719.
+[34] - Number type: Fraction; fraction = 92/90; double cast = 1.0222222222222221.
+[35] - Number type: Fraction; fraction = 59/53; double cast = 1.1132075471698113.
+[36] - Number type: Fraction; fraction = 85/64; double cast = 1.328125.
+[37] - Number type: Fraction; fraction = 47/32; double cast = 1.46875.
+[38] - Number type: Fraction; fraction = 66/38; double cast = 1.736842105263158.
+[39] - Number type: Fraction; fraction = 87/45; double cast = 1.9333333333333333.
+[40] - Number type: Fraction; fraction = 53/27; double cast = 1.962962962962963.
+[41] - Number type: Fraction; fraction = 65/33; double cast = 1.9696969696969697.
+[42] - Number type: Complex; real = -1.5851699168560174; imaginary = 1.8817977874789449; double cast = 2.4604728363194677.
+[43] - Number type: Fraction; fraction = 75/29; double cast = 2.586206896551724.
+[44] - Number type: Fraction; fraction = 100/33; double cast = 3.0303030303030303.
+[45] - Number type: Fraction; fraction = 86/23; double cast = 3.739130434782609.
+[46] - Number type: Complex; real = -3.828093232281063; imaginary = 14.232803213497107; double cast = 14.738622225607442.
+[47] - Number type: Complex; real = -23.44509528418945; imaginary = 5.529640643200096; double cast = 24.088366871327178.
+[48] - Number type: Complex; real = 9.491652108527802; imaginary = -28.79622191849937; double cast = 30.32018892633725.
+[49] - Number type: Complex; real = -22.526840202341873; imaginary = 22.75954239187776; double cast = 32.02273097956398.
+[50] - Number type: Polar; point = (27, 22); angle = -74.87762964569909; double cast = 34.828149534535996.
+[51] - Number type: Complex; real = 40.895590416557695; imaginary = 0.9438964166611754; double cast = 40.90648183313045.
+[52] - Number type: Polar; point = (-38, 16); angle = -48.937592013452246; double cast = 41.23105625617661.
+[53] - Number type: Complex; real = -42.297554855644506; imaginary = -1.079217944033914; double cast = 42.31132068533173.
+[54] - Number type: Polar; point = (37, 21); angle = 49.602060733509546; double cast = 42.5440947723653.
+[55] - Number type: Complex; real = -1.369775174350778; imaginary = -44.0708907619116; double cast = 44.09217273594728.
+[56] - Number type: Polar; point = (-43, 10); angle = -15.278039954107925; double cast = 44.14748010928823.
+[57] - Number type: Polar; point = (42, -16); angle = -53.272987870724634; double cast = 44.94441010848846.
+[58] - Number type: Polar; point = (-40, -21); angle = 21.57700801596276; double cast = 45.17742799230607.
+[59] - Number type: Complex; real = -55.48688433838473; imaginary = -12.261498981277313; double cast = 56.82551091586551.
+[60] - Number type: Polar; point = (44, 44); angle = -58.69217584140824; double cast = 62.22539674441618.
+[61] - Number type: Complex; real = 32.877347855842686; imaginary = -52.85928687809327; double cast = 62.24969245943828.
+[62] - Number type: Polar; point = (20, 61); angle = -35.24322028944256; double cast = 64.19501538281614.
+[63] - Number type: Complex; real = -58.245336279503455; imaginary = -30.656686869818344; double cast = 65.82060200382958.
+[64] - Number type: Complex; real = 15.293701327491704; imaginary = 64.17873296951572; double cast = 65.97580667083143.
+[65] - Number type: Complex; real = -48.49523360699215; imaginary = 47.19754505849002; double cast = 67.671234229508.
+[66] - Number type: Polar; point = (-2, -74); angle = -83.77182485657755; double cast = 74.02702209328699.
+[67] - Number type: Polar; point = (-76, -20); angle = 17.08837093258235; double cast = 78.587530817554.
+[68] - Number type: Polar; point = (61, 51); angle = 42.46022936321515; double cast = 79.51100552753688.
+[69] - Number type: Polar; point = (36, 72); angle = -54.38358462804669; double cast = 80.49844718999243.
+[70] - Number type: Complex; real = 63.27847004341754; imaginary = -50.16034483408194; double cast = 80.7479099723931.
+[71] - Number type: Polar; point = (-61, 55); angle = -71.26401113106706; double cast = 82.13403679352427.
+[72] - Number type: Complex; real = 71.50562301059136; imaginary = -41.73029071424399; double cast = 82.79173440161846.
+[73] - Number type: Complex; real = -57.202949852829946; imaginary = 60.207862261881274; double cast = 83.0491670639209.
+[74] - Number type: Polar; point = (-82, -15); angle = 57.880893289226094; double cast = 83.3606621854697.
+[75] - Number type: Complex; real = -41.32570925787997; imaginary = 76.39301452798932; double cast = 86.85451579705234.
+[76] - Number type: Complex; real = 57.9967316059099; imaginary = 65.39719458021673; double cast = 87.40946136392031.
+[77] - Number type: Complex; real = 87.37071349409626; imaginary = -14.502775683135695; double cast = 88.56620167413078.
+[78] - Number type: Complex; real = -2.7968353847513043; imaginary = -88.94916304769227; double cast = 88.99312274021145.
+[79] - Number type: Complex; real = -6.675938463984139; imaginary = 88.99391312779451; double cast = 89.24396185833717.
+[80] - Number type: Complex; real = -88.59621891310188; imaginary = 14.31653872815204; double cast = 89.74549173553481.
+[81] - Number type: Complex; real = -64.44173548666323; imaginary = 63.013926864823304; double cast = 90.13041801444378.
+[82] - Number type: Complex; real = 91.38859362856661; imaginary = -0.3664090325975451; double cast = 91.38932815699246.
+[83] - Number type: Polar; point = (21, 89); angle = -32.51289392268018; double cast = 91.44397191723465.
+[84] - Number type: Complex; real = -34.85599251898887; imaginary = 84.78901672889194; double cast = 91.67397434570034.
+[85] - Number type: Polar; point = (-87, -29); angle = 72.12790088181592; double cast = 91.706052144883.
+[86] - Number type: Polar; point = (18, -92); angle = 31.05078167373486; double cast = 93.74433316206373.
+[87] - Number type: Complex; real = -55.151904409005795; imaginary = -76.43537850813237; double cast = 94.2555019488071.
+[88] - Number type: Polar; point = (96, 14); angle = 80.19186268882316; double cast = 97.01546268507923.
+[89] - Number type: Complex; real = -86.18390653773587; imaginary = -44.68015862565717; double cast = 97.07719773932021.
+[90] - Number type: Complex; real = -58.87904110077855; imaginary = -78.7848988560598; double cast = 98.35548672395832.
+[91] - Number type: Complex; real = -60.92287823468765; imaginary = -88.09511060409476; double cast = 107.10903605553672.
+[92] - Number type: Polar; point = (-55, -93); angle = 20.944729499592427; double cast = 108.04628637764465.
+[93] - Number type: Complex; real = 47.535681531971704; imaginary = -98.677115216479; double cast = 109.52996889507139.
+[94] - Number type: Polar; point = (94, 61); angle = -33.465243242606576; double cast = 112.05802068571441.
+[95] - Number type: Complex; real = -78.97964002812515; imaginary = 87.67416879697237; double cast = 118.00230257589142.
+[96] - Number type: Polar; point = (-78, 90); angle = -30.63502533728885; double cast = 119.09659944767525.
+[97] - Number type: Polar; point = (-81, 88); angle = -67.93485376546538; double cast = 119.60351165413162.
+[98] - Number type: Complex; real = 98.46249702300963; imaginary = 70.13537089362586; double cast = 120.88768990427702.
+[99] - Number type: Complex; real = -94.67040721631545; imaginary = -76.6350744847143; double cast = 121.80074155677666.
+[100] - Number type: Complex; real = 88.19543851096171; imaginary = 95.78155723355164; double cast = 130.20192809718662.
+Execution: 0.0036270618438720703

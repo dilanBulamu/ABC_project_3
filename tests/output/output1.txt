@@ -1,0 +1,11 @@
+Container contains 1 elements.
+[1] - Number type: Complex; real = 12.92775472077767; imaginary = -13.94645242447659; double cast = 19.016581642050664.
+
+
+===================================
+
+Sorted container:
+
+Container contains 1 elements.
+[1] - Number type: Complex; real = 12.92775472077767; imaginary = -13.94645242447659; double cast = 19.016581642050664.
+Execution: 0.0004899501800537109

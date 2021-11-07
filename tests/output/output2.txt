@@ -1,0 +1,29 @@
+Container contains 10 elements.
+[1] - Number type: Fraction; fraction = 41/53; double cast = 0.7735849056603774.
+[2] - Number type: Fraction; fraction = -65/21; double cast = -3.0952380952380953.
+[3] - Number type: Polar; point = (15, -86); angle = 15.06153428359292; double cast = 87.29833904490967.
+[4] - Number type: Complex; real = -73.89328885375237; imaginary = 62.93437400534799; double cast = 97.0615967778663.
+[5] - Number type: Complex; real = -45.73583239795664; imaginary = -13.35754113476682; double cast = 47.646513726619794.
+[6] - Number type: Polar; point = (10, -68); angle = 36.98161897932994; double cast = 68.73136110975832.
+[7] - Number type: Fraction; fraction = 74/12; double cast = 6.166666666666667.
+[8] - Number type: Complex; real = -9.666214224388199; imaginary = 52.547795553367166; double cast = 53.429453627659704.
+[9] - Number type: Fraction; fraction = 96/46; double cast = 2.0869565217391304.
+[10] - Number type: Complex; real = -1.3593286556495627; imaginary = -53.50785127294202; double cast = 53.52511487368666.
+
+
+===================================
+
+Sorted container:
+
+Container contains 10 elements.
+[1] - Number type: Fraction; fraction = -65/21; double cast = -3.0952380952380953.
+[2] - Number type: Fraction; fraction = 41/53; double cast = 0.7735849056603774.
+[3] - Number type: Fraction; fraction = 96/46; double cast = 2.0869565217391304.
+[4] - Number type: Fraction; fraction = 74/12; double cast = 6.166666666666667.
+[5] - Number type: Complex; real = -45.73583239795664; imaginary = -13.35754113476682; double cast = 47.646513726619794.
+[6] - Number type: Complex; real = -9.666214224388199; imaginary = 52.547795553367166; double cast = 53.429453627659704.
+[7] - Number type: Complex; real = -1.3593286556495627; imaginary = -53.50785127294202; double cast = 53.52511487368666.
+[8] - Number type: Polar; point = (10, -68); angle = 36.98161897932994; double cast = 68.73136110975832.
+[9] - Number type: Polar; point = (15, -86); angle = 15.06153428359292; double cast = 87.29833904490967.
+[10] - Number type: Complex; real = -73.89328885375237; imaginary = 62.93437400534799; double cast = 97.0615967778663.
+Execution: 0.0006771087646484375
